@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
+	"github.com/f00stx/protoc-gen-typescript/internal"
 	"github.com/golang/protobuf/proto"
-	"github.com/ocavue/protoc-gen-typescript/internal"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/ssh/terminal"
 )
